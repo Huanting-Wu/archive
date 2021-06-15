@@ -1,0 +1,7 @@
+﻿client_name,user_name,password,uri,type,remote_directory
+Staples,Everstring_CML,PDpPKN@5,cfxp.stapleslone.com,sftp,/
+Wayfir,everstring_cc,KDpPVN@5,cfxp.wayfair.com,ftp,/
+DLL,everstring_sbb,PDKPVN@5,cfxp.dll.com,ftp,/
+SnowFlake ,everstring_cli,PDpPVN@5,cfxp.snowflake.com,sftp,/
+UCC,everstring_cli,UDpPVN@5,cfxp.ucc.com,ftp,/
+Capital One,everstring_cli,FNpPVN@5,cfxp.capitalone.com,sftp,/
